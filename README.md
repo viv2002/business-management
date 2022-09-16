@@ -1,5 +1,5 @@
 # business-management
-various stages of development of the software
+Various stages of development of the software
 # Authors:
 1. Ekeshwar Gowla
 2. Vivek Kumar
